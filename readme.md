@@ -251,3 +251,392 @@ Topics covered:
 - Object creation and usage
 - Completed and submitted class and object–based problems
 
+# 8th January 2026
+We learned Git flow commands and version control practices.
+
+Topics covered:
+- Git branching strategies  
+- Git flow commands  
+- Understanding workflow in Git  
+
+---
+
+# 9th January 2026
+We applied Git flow commands in real scenarios.
+
+Activities performed:
+- Making changes in GitHub repositories  
+- Managing branches using Git  
+- Practicing version control workflows  
+
+---
+
+# 10th January 2026
+We practiced Java class structure concepts.
+
+Topics covered:
+- Class design  
+- Code organization  
+- Writing structured Java programs  
+
+---
+
+# 12th January 2026
+We practiced **Inheritance in Java**.
+
+Topics included:
+- Types of inheritance  
+- Code reusability  
+- Inheritance-based problems  
+
+---
+
+# 13th January 2026
+We practiced **Encapsulation in Java**.
+
+Topics covered:
+- Data hiding  
+- Getter and setter methods  
+- Implementation of encapsulation  
+
+---
+
+# 14th January 2026
+We started learning **Data Structures in Java**.
+
+Topics covered:
+- Introduction to data structures  
+- Linked List basics  
+- Initial problem solving  
+
+---
+
+# 15th January 2026
+We continued practicing **Linked List problems**.
+
+Activities performed:
+- Implementation of linked lists  
+- Solving DSA problems  
+
+---
+
+# 16th January 2026
+We worked on improving our GitHub repositories.
+
+Activities performed:
+- Fixing errors in code  
+- Updating repositories based on feedback  
+
+---
+
+# 17th January 2026
+We started working on **DSA practice problems**.
+
+Topics covered:
+- Day 1 problem set  
+- Logical problem solving  
+
+---
+
+# 19th January 2026
+We continued solving remaining **DSA problems**.
+
+Activities performed:
+- Completing pending problems  
+- Strengthening problem-solving skills  
+
+---
+
+# 20th January 2026
+We attended a review session on **Java OOPS concepts**.
+
+Topics covered:
+- Key OOPS principles  
+- Concept clarification  
+
+---
+
+# 21st January 2026
+We completed **Week 3 practice problems (Day 1–3)**.
+
+---
+
+# 22nd January 2026
+We completed **Week 3 practice problems (Day 4–6)**.
+
+---
+
+# 23rd January 2026
+We created and pushed a new project **OOPSBannerApp**.
+
+Activities performed:
+- Project setup  
+- Code implementation  
+- GitHub upload  
+
+---
+
+# 24th January 2026
+We improved code readability in **OOPSBannerApp**.
+
+Activities performed:
+- Added single-line and multi-line comments  
+- Improved documentation  
+
+---
+
+# 27th January 2026
+We completed **Week 4 Day 1 problems**.
+
+---
+
+# 28th January 2026
+We completed **Week 4 Day 2 problems**.
+
+---
+
+# 29th January 2026
+We completed a **Console-Based Assignment**.
+
+Project:
+- Factory Robot Hazard Analyzer  
+
+---
+
+# 30th January 2026
+We attended a review session on **Data Structures and Algorithms**.
+
+---
+
+# 31st January 2026
+We completed and uploaded **Week 4 Day 3 problems** to GitHub.
+
+---
+
+# 2nd February 2026
+We completed and uploaded **Week 4 Day 4 problems**.
+
+---
+
+# 3rd February 2026
+We completed a Git project **OceanFleetApp**.
+
+---
+
+# 4th February 2026
+We completed and uploaded **Week 4 Day 5 problems**.
+
+---
+
+# 5th February 2026
+We completed and uploaded **Week 4 Day 6 problems**.
+
+---
+
+# 6th February 2026
+We completed **Week 5 Day 1 problems**.
+
+---
+
+# 7th February 2026
+We attended a **Power Skills session**.
+
+---
+
+# 9th February 2026
+We completed **Week 5 Day 2 problems**.
+
+---
+
+# 10th February 2026
+We attended a review session on **Java Generics and Collections**.
+
+---
+
+# 11th February 2026
+We completed the **OceanFleetApp project**.
+
+---
+
+# 12th February 2026
+We revised previous topics and continued practice.
+
+---
+
+# 13th February 2026
+We completed **Week 5 practice problems** and uploaded them to GitHub.
+
+---
+
+# 14th February 2026
+We attended **Power Skills training**.
+
+Topics covered:
+- Grammar basics  
+- Professional email writing  
+
+---
+
+# 16th February 2026
+We solved problems on **Trees and Graphs**.
+
+---
+
+# 17th February 2026
+We attended a review session on **Java 8 features**.
+
+---
+
+# 18th February 2026
+We practiced problems on **HackerRank**.
+
+---
+
+# 19th February 2026
+We continued practicing **HackerRank problems**.
+
+---
+
+# 20th February 2026
+We completed problems on:
+- Annotations  
+- Design Patterns  
+
+---
+
+# 21st February 2026
+We attended a **Power Skills session** and delivered a short speech.
+
+---
+
+# 23rd February 2026
+We completed the **Quantity Measurement App**.
+
+---
+
+# 24th February 2026
+We installed and configured **MySQL Server**.
+
+---
+
+# 25th February 2026
+We completed **Week 6 Day 2 & Day 3 SQL queries**.
+
+---
+
+# 26th February 2026
+We completed **Week 6 Day 4 & Day 5 SQL queries**.
+
+---
+
+# 27th February 2026
+We started working on the **Quantity Measurement App**.
+
+---
+
+# 28th February 2026
+We attended **Power Skills training**.
+
+Topics covered:
+- Presentation fundamentals  
+- Communication rules  
+
+---
+
+# 2nd March 2026
+We completed **UC1–UC4** of the Quantity Measurement App.
+
+---
+
+# 3rd March 2026
+We completed **UC5–UC6**.
+
+---
+
+# 4th March 2026
+We completed **UC7–UC10**.
+
+---
+
+# 5th March 2026
+We completed **UC11–UC12**.
+
+---
+
+# 6th March 2026
+We completed **UC13–UC14**.
+
+---
+
+# 7th March 2026
+We delivered a presentation on **Adaptive Learning**.
+
+---
+
+# 9th March 2026
+We started learning **Spring Boot and Tomcat**.
+
+---
+
+# 10th March 2026
+We completed a **Tomcat Servlet assignment**.
+
+---
+
+# 11th March 2026
+We completed a **Spring Boot assignment**.
+
+---
+
+# 12th March 2026
+We completed a **Spring REST API assignment**.
+
+---
+
+# 13th March 2026
+We continued working on **Spring Framework concepts**.
+
+---
+
+# 14th March 2026
+We delivered a presentation on **Creative Thinking**.
+
+---
+
+# 16th March 2026
+We attended a review session on **Spring Boot applications**.
+
+---
+
+# 17th March 2026
+We prepared for the **M1 Mock Exam**.
+
+---
+
+# 18th March 2026
+We attended the **M1 Mock Exam** and reviewed feedback.
+
+---
+
+# 19th March 2026
+We started working on **Employee Payroll App (Spring Boot)**.
+
+---
+
+# 20th March 2026
+We continued development of **Employee Payroll App**.
+
+---
+
+# 21st March 2026
+We progressed further with **Employee Payroll App features**.
+
+---
+
+# 23rd March 2026
+We prepared for the **M1 Final Exam**.
+
+---
+
+# 24th March 2026
+We attended the **M1 Final Exam**.
